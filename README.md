@@ -17,10 +17,3 @@ This Terraform configuration will create the following resources:
 - Amazon Cognito Identity Pool
 - IAM roles and policies required for the OpenSearch and Cognito integration
 
-## Usage
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/ksumesh431/opensearch_cognito_tf.git
-   cd opensearch_cognito_tf
